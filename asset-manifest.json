@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/cart-angle.git/static/css/main.05ed2c4d.chunk.css",
-    "main.js": "/cart-angle.git/static/js/main.150028fc.chunk.js",
-    "main.js.map": "/cart-angle.git/static/js/main.150028fc.chunk.js.map",
+    "main.js": "/cart-angle.git/static/js/main.b286fe18.chunk.js",
+    "main.js.map": "/cart-angle.git/static/js/main.b286fe18.chunk.js.map",
     "runtime-main.js": "/cart-angle.git/static/js/runtime-main.4b6a205b.js",
     "runtime-main.js.map": "/cart-angle.git/static/js/runtime-main.4b6a205b.js.map",
-    "static/js/2.06cd2897.chunk.js": "/cart-angle.git/static/js/2.06cd2897.chunk.js",
-    "static/js/2.06cd2897.chunk.js.map": "/cart-angle.git/static/js/2.06cd2897.chunk.js.map",
+    "static/js/2.e3f5cc86.chunk.js": "/cart-angle.git/static/js/2.e3f5cc86.chunk.js",
+    "static/js/2.e3f5cc86.chunk.js.map": "/cart-angle.git/static/js/2.e3f5cc86.chunk.js.map",
     "index.html": "/cart-angle.git/index.html",
     "static/css/main.05ed2c4d.chunk.css.map": "/cart-angle.git/static/css/main.05ed2c4d.chunk.css.map",
-    "static/js/2.06cd2897.chunk.js.LICENSE.txt": "/cart-angle.git/static/js/2.06cd2897.chunk.js.LICENSE.txt"
+    "static/js/2.e3f5cc86.chunk.js.LICENSE.txt": "/cart-angle.git/static/js/2.e3f5cc86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4b6a205b.js",
-    "static/js/2.06cd2897.chunk.js",
+    "static/js/2.e3f5cc86.chunk.js",
     "static/css/main.05ed2c4d.chunk.css",
-    "static/js/main.150028fc.chunk.js"
+    "static/js/main.b286fe18.chunk.js"
   ]
 }
