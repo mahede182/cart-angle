@@ -1,6 +1,6 @@
 import React from 'react'
 import { useGlobalContext } from './context'
-import { BrowserRouter as Router } from 'react-router-dom'
+import { HashRouter as Router } from 'react-router-dom'
 // components
 import Navbar from './component/Navbar'
 import CartContainer from './component/CartContainer'
