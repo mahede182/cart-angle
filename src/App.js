@@ -1,6 +1,7 @@
 import React from 'react'
 import { useGlobalContext } from './context'
-import { HashRouter as Router } from 'react-router-dom'
+
+import classes from './styles/navbar.module.css'
 // components
 import Navbar from './component/Navbar'
 import CartContainer from './component/CartContainer'
@@ -11,19 +12,16 @@ function App() {
 
   if (loading) {
     return (
-      <div className='loading'>
+      <div className={classes.loading}>
         <h1>Loading...</h1>
       </div>
     )
   }
   return (
-    <Router basename={process.env.NODE_ENV==='production'?'/reactjs-deploy':''}>
       <main>
         <Navbar />
         <CartContainer />
       </main>
-    </Router>
-    
   )
 }
 
